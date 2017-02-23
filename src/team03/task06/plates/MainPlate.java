@@ -2,6 +2,8 @@ package team03.task06.plates;
 
 public class MainPlate extends Plate{
 
+    //TODO public Sensor sensor ?
+
     // Constructor
     public MainPlate (String name) {
         super(name);
